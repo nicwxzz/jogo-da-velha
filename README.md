@@ -49,7 +49,7 @@ velha.py
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/jogo-da-velha.git
+git clone https://github.com/nicwxzz/jogo-da-velha.git
 
 # Entre na pasta
 cd jogo-da-velha
